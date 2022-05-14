@@ -1,0 +1,17 @@
+@media (min-width:768px) {
+body {
+background: url(https://hdwallsource.com/img/2017/5/full-moon-over-dark-mountains-wallpaper-61961-63848-hd-wallpapers.jpg) center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+}
+}
+
+@media (max-width: 768px) {
+body {
+background: url(https://hdwallsource.com/img/2017/5/full-moon-over-dark-mountains-wallpaper-61961-63848-hd-wallpapers.jpg) center center fixed !important;
+background-repeat: no-repeat;
+background-size: 100%;
+width: auto !important;
+min-width: 600px !important;
+}
+}
